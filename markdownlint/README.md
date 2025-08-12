@@ -5,7 +5,7 @@ Styles for [Markdownlint](https://github.com/markdownlint/markdownlint).
 These can typically be loaded via your `.mdlrc` file for permanent access:
 
 ```ruby
-style "style.rb"
+style "#{File.dirname(__FILE__)}/style.rb"
 ```
 
 ## Themes
