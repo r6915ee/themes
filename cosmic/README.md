@@ -28,4 +28,12 @@ are orange and dark blue, since they contrast well.
 
 This theme is a **dark theme**.
 
-Located under `warm-contract.ron`.
+Located under [`warm-contract.ron`](./warm-contract.ron).
+
+### Zen Fields
+
+Designed for backgrounds that prioritize RGB scheming; for example, the left
+side's dominant color is red, the middle is green, and the right is blue. This
+is primarily an aesthetic theme.
+
+Located under [`zen-fields.ron`](./zen-fields.ron).
